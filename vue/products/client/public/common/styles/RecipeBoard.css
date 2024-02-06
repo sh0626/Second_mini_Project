@@ -1,0 +1,101 @@
+.RecipeBoard {
+    position: relative;
+    padding-left: 10px;
+    margin: 0 10%;
+}
+
+.Board_table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.Board_tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.Board_tr {
+    padding-top: 10px;
+    vertical-align: inherit;
+    border-color: inherit;
+    float: left;
+    font-weight: bold;
+}
+
+.th_span {
+    color: #74b243;
+    display: block;
+    font-weight: 500;
+    margin: 0 13px 0 0;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 15px;
+    height: 35px;
+    width: 100%;
+}
+
+.cateL {
+    background: #fff;
+    padding: 16px 15px 8px 12px;
+    vertical-align: top;
+    margin-top: 0;
+    border: none;
+}
+
+.cate_list {
+    font-size: 15px;
+    padding: 6px 0;
+}
+
+.cate_list_text {
+    padding: 3px 8px 4px;
+    color: #666;
+    vertical-align: middle;
+    font-size: 15px;
+    line-height: 1;
+    font-weight: 300;
+}
+
+/*썸네일 css*/
+
+.thumbnail_item {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.thumbnail_item__pic {
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    position: relative;
+    object-fit: fill;
+    border: 3px solid rgb(130, 130, 90);
+    border-radius: 10px;
+}
+
+.thumbnail_item__name {
+    bottom: -10px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.thumbnail_item__price {
+    color: #111111;
+    font-weight: 600;
+    font-size: 16px;
+    -webkit-transition: all, 0.3s;
+    -o-transition: all, 0.3s;
+    transition: all, 0.3s;
+}
+
+#write {
+    float: right;
+}
+
+.write_a {
+    text-decoration-line: none;
+    color: black;
+}

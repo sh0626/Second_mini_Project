@@ -1,0 +1,122 @@
+.recipe_Regi {
+    margin-top: 100px;
+    /*text-align: center;*/
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.regi_center{
+
+}
+.regi_title {
+    background: #f8f8f8;
+    border-bottom: 1px solid #e6e7e8;
+    padding: 14px 18px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.regi_cont {
+    padding-left: 60px !important;
+    padding-top: 15px;
+}
+
+.main_photo {
+    float: right;
+    padding-right: 100px;
+}
+
+.mainPhotoHolder {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.cont_line {
+    width: 800px;
+    padding-top: 8px;
+}
+
+.tit1 {
+    padding-top: 10px;
+    margin-right: 10px;
+    width: 140px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+.inputDetails {
+    width: 500px;
+    height: 50px;
+    padding-left: 10px;
+}
+
+.tit2 {
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0;
+    width: 100%;
+}
+
+.intgd_regi {
+    padding-top: 20px;
+}
+
+.sun_li {
+    padding-bottom: 4px;
+    list-style: none;
+}
+
+.ex {
+    margin: 0 3px;
+}
+
+.btn_add {
+    padding: 0 0 0 190px;
+    width: 800px;
+}
+
+.btn_add_add {
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+}
+
+.btn_add_add:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.cont_list {
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0;
+    width: 100%;
+}
+
+.recipe_insert {
+    margin: 6px 0;
+}
+.explain {
+    height: 160px;
+    width: 430px;
+    resize: none;
+}
+.explin_li{
+    height: 180px;
+}
+.explain_img{
+    padding-left: 5px;
+    margin-bottom: 150px;
+}

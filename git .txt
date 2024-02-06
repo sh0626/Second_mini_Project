@@ -1,0 +1,13 @@
+cd git-work\TDN
+git status
+git add .
+git commit -m "
+git push -u origin main
+
+
+
+id
+wastyno100
+je9898
+minzzang999
+churu0710

@@ -1,0 +1,100 @@
+.RecipeDetails {
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+.title_img {
+    width: 500px;
+}
+
+.title {
+    padding-top: 10px;
+}
+
+.writer {
+    margin: 10px 0;
+    color: #333;
+    font-size: 18px;
+    line-height: 1.2em;
+}
+
+.btn_img {
+    width: 30px;
+    height: 30px;
+}
+
+.time_people {
+    padding: 20px 20% 40px 20%;
+    text-align: center;
+}
+
+.time_people1 {
+    display: inline-block;
+    width: 32%;
+    padding-top: 25px;
+    color: black;
+    font-size: 16px;
+}
+
+.time_people1 img {
+    width: 30px;
+    height: 30px;
+}
+
+.Ingredient_name {
+    font-size: 20px;
+}
+
+.area_details {
+    padding: 0 20%;
+    vertical-align: top;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /*color: black;*/
+}
+
+.area_ingrd {
+    width: 46%;
+    display: inline-block;
+    vertical-align: top;
+    border-bottom: 1px solid black;
+}
+
+.recipe_view {
+    padding: 35px 0 35px 0;
+}
+
+.view_title {
+    font-size: 27px;
+    color: black;
+    padding: 0 35px 30px 35px;
+}
+
+.stepDiv1 {
+    display: flex;
+    padding: 5px;
+}
+
+.details {
+    display: flex;
+    width: 100%;
+}
+
+.detils_img {
+    width: 30px;
+    height: 30px;
+}
+
+.desc {
+    margin-top: 2px;
+    padding-left: 5px;
+    text-align: left;
+    font-size: 24px;
+}
+
+.cook_process_img {
+    width: 300px;
+    margin-left: 40px;
+}

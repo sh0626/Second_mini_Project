@@ -21,6 +21,9 @@
   
 - 레시피 등록하여 DB에 데이터 저장
 
+### DB ERD
+![2차 DB ERD](https://github.com/sh0626/Second_mini_Project/assets/81377801/e477e584-85a7-435d-847c-ef5649be82c0)
+
 ## 페이지별 설명
 
 ### [메인 페이지]
